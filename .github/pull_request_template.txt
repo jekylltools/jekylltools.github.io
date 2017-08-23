@@ -1,0 +1,5 @@
+All pull requests made to this repository will be ignored.
+
+Please fork this repository and make changes to your own fork.
+
+Thank you.
